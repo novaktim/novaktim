@@ -6,6 +6,7 @@
 
 ## Repositories
 <p float="left">
+  <img alt="my stats" align="left" hspace="10" vspace="10" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=novaktim&repo=soccer-penalty-shootouts"/>
   <img alt="my stats" align="left" hspace="10" vspace="10" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=novaktim&repo=llm-case-studies"/>
   <img alt="my stats" align="left" hspace="10" vspace="10" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=novaktim&repo=oblivious_sketching_varreglogreg"/>
   <img alt="my stats" align="left" hspace="10" vspace="100" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=novaktim&repo=turnstile-sampling"/>
